@@ -1,6 +1,6 @@
-#**Hospital Management System**
-This is a learning and implementation project of Java JDBC.
-Below Images are terminal output of the Hospital Management System. 
+#**Hospital Management System**<br />
+This is a learning and implementation project of Java JDBC.<br />
+Below Images are terminal output of the Hospital Management System. <br />
 ![image](https://github.com/Chetan202/Hospital-Management-System/assets/52883959/993f3952-2a55-4f3b-8254-e727f46d2ca0)
 
 
